@@ -16,4 +16,3 @@ Description: A generic layout function, tile, and a set of
 Maintainer: Christopher Adolph <cadolph@uw.edu>
 License: GPL version 2 or later
 Depends: grid
-Suggests: Cairo, car, colorspace, MASS, simcf, WhatIf, Zelig
